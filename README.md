@@ -86,11 +86,11 @@ Caprae Value	How This Project Reflects It
 
  Tools Used:
  
-Python
-Jupyter Notebook
-Pandas
-Matplotlib / Seaborn
-Requests (HTTP check)
+Python,
+Jupyter Notebook,
+Pandas,
+Matplotlib / Seaborn,
+Requests (HTTP check),
 Clearbit Logo API
 
 Final Thoughts:
