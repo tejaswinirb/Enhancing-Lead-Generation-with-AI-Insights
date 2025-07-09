@@ -59,20 +59,20 @@ Export
 Final enriched data is saved as final_enriched_leads.csv
 
  Visual Outputs
-✅ Bar Chart of Scores — instantly shows highest potential leads
-✅ Tag Frequency Plot — reveals vertical trends in your pipeline
-✅ Clean Output DataFrame — structured for CRM or analysis
+1.Bar Chart of Scores — instantly shows highest potential leads
+2. Tag Frequency Plot — reveals vertical trends in your pipeline
+3. Clean Output DataFrame — structured for CRM or analysis
 These insights are the kind that help an analyst act fast — not just read a spreadsheet.
 
 Business Relevance to Caprae
 This tool was built with Caprae’s core values in mind:
 
 Caprae Value	How This Project Reflects It
-🔍 Independent Thinking	Chose insight over scale; questioned assumptions about scraping
-🧠 AI + Strategy Focus	Designed a pipeline that mimics GPT output and strategic analysis
-🏗️ Founder/Operator Mindset	Built for real workflow integration — CRM-ready output
-💡 Creativity	Went beyond scraping — into scoring, tagging, summarizing, and visualizing
-🛠️ Usefulness	Analysts can filter, score, and discuss leads immediately from output
+1. Independent Thinking	Chose insight over scale; questioned assumptions about scraping
+2. AI + Strategy Focus	Designed a pipeline that mimics GPT output and strategic analysis
+3. Founder/Operator Mindset	Built for real workflow integration — CRM-ready output
+4. Creativity	Went beyond scraping — into scoring, tagging, summarizing, and visualizing
+5. Usefulness	Analysts can filter, score, and discuss leads immediately from output
 
  Tools Used
 Python
